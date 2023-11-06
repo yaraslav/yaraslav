@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yaroslav Alenchyk!</h1>
+<h1 align="center">Hi 👋, I'm Yaroslav!</h1>
 <h3 align="center">A passionate Network Engineer!</h3>
 
 <h3 align="left">Connect with me:</h3>
