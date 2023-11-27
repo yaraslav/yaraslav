@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yaroslav!</h1>
-<h3 align="center">A passionate Network Engineer!</h3>
+<h3 align="center">Hardworking and intelligent Network/Telecom Engineer with excellent communication skills, a solid technical background, and 8+ years of experience in pre-sales, consulting, and technical supporting of designing, building, deploying, and testing/monitoring/operating of wired/optical network (Enterprise LAN/WAN, PON, FTTx, and other “last mile” solutions, structured cabling systems of LAN and DC solutions). </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
